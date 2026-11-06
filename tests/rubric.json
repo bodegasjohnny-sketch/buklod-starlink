@@ -1,0 +1,25 @@
+{
+  "pass": 22,
+  "total": 24,
+  "fails": [
+    [
+      "breakeven_near_zero",
+      {
+        "billed": 12500,
+        "net": 12500,
+        "cost": 12400,
+        "profit": 100,
+        "starlink": 8400
+      }
+    ],
+    [
+      "no_tagalog_issues",
+      [
+        "/workspace/buklod-starlink/risks/index.html has login"
+      ]
+    ]
+  ],
+  "issues": [
+    "/workspace/buklod-starlink/risks/index.html has login"
+  ]
+}

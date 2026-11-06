@@ -1,0 +1,1122 @@
+What a month can cost
+The invoice arrives even when the barangay does not pay.
+A full site can absorb a bad week. A new site cannot absorb the same week, because the satellite bill is already larger than a small book. This page prices the months the guide’s ₱37,600 profit does not describe, then projects the cash a rollout actually needs.
+Risk register
+Three kinds of month
+12-month costs
+Rollout cash
+Standing rates follow the
+model
+:
+₱500
+a user,
+Local Priority 1 TB
+at
+₱8,400
+, host
+₱2,000
+, upkeep
+₱2,000
+, capital
+₱150,000
+. Change them there and this page moves with you.
+Risks that show up in a month
+01
+The data plan runs out
+Most busy months
+Local Priority 500 GB is a start tier. A barangay that watches video can finish it before the cycle ends. Upgrades apply next billing cycle, not the same afternoon.
+Read usage every week. Move to 1 TB before you sell the 80th voucher. Do not promise unlimited video on 500 GB.
+₱3,750 more to move from ₱4,650 to the ₱8,400 1 TB plan — or a wave of non-renewals if speeds collapse.
+02
+Collections come in thin
+Any month, worse at the start
+The guide counts 100 paying users. A new site more often has 25, then 40, then 60. Prepaid vouchers also leak: shared logins, unsold cards, a seller who settles late.
+Sell through the host and one sari-sari. Don’t hire for 100 users until the vouchers are actually moving.
+Each missing user is ₱400–₱600. An 8% leak on a full ₱50,000 book is ₱4,000. A 40-user book is a different business.
+03
+Power is the real backbone
+Brownout season, and random Tuesdays
+The dish, the PoE, and the radio die together when the barangay supply dies. A generator drinks fuel. A solar kit that was sized for a sunny week goes flat in a string of rain days.
+Prefer a site with power you would trust with a freezer, plus a UPS. If you would not, put solar and battery in the ₱15,000–₱40,000 power budget before launch, not after the third outage.
+Fuel and a revisit often add ₱1,500–₱6,000. A dark day on a full site gives up roughly ₱1,670 of revenue. The satellite invoice does not shrink.
+04
+A truck roll
+A few times a year, clustered in bad weather
+Someone has to climb the roof: a shifted dish, a flooded enclosure, a radio that rebooted into silence, a CPE at the far house. Remote barangays turn a one-hour fix into a day.
+Train one or two people in the area. Leave a spare PoE and a spare cable on site. Prepare the mount and the power before the crew arrives so the first visit is the only install visit.
+Fuel, food, a local tech, and lost hours: about ₱1,500–₱8,000 a visit. The guide’s ₱2,000 upkeep line does not cover a hard month of these.
+05
+A storm month
+Typhoon season — one bad week, sometimes two
+Rain fade on 5 GHz, a dish nudged off the sky, an antenna that needs re-aiming, and customers who skip a renewal because the week was unusable.
+Guy the pole. Use a proper mount, not a nailed board. Shut down cleanly if a signal is posted. Keep the arrestor and the enclosure closed.
+Repairs of ₱3,000–₱25,000 plus a thinner book. On the projection, month 8 drops a full site to 40 paying users and an ₱8,000 repair.
+06
+Lightning and surge
+A handful of months, uneven by province
+A nearby strike kills the PoE, the router, or the outdoor radio. The dish is less often the victim than the cheap injector under it.
+Arrestor, a real ground, and drip loops. A spare injector is cheaper than a second trip.
+₱1,500 for an injector up to ₱20,000 if the outdoor radio dies. The projection puts a ₱6,000 hit in month 11.
+07
+Theft and tampering
+Occasional, then contagious if one site is easy
+Batteries, radios, and client radios walk. A host who is casual about the gate makes it worse.
+You own the gear, and the contract says so. Lock the enclosure. The host’s fee is partly for eyes on the roof.
+₱6,000–₱25,000 to replace a battery or a radio, plus the days the sector is dark.
+08
+The host changes their mind
+Usually after the first calm months
+They want a higher fee, a relative hired, or the dish off the roof because of a family dispute. Without a paper, you are negotiating from their ladder.
+Written terms: free internet, a fixed fee, access, security, and termination. You take the equipment with you.
+₱500–₱2,000 more a month, or a relocation: another truck roll plus a new mount. Worst case, a dark site while you move.
+09
+Someone else shows up
+A promo month, or a new tower
+A mobile promo or a later fiber build gives people a reason to stop renewing. The honest defense is that you picked a barangay the incumbents still skip.
+Survey demand before you mount. Keep the price inside ₱400–₱600. Don’t build the second site in a barangay that already has a stable signal.
+A drop from ₱500 to the ₱400 floor is ₱10,000 less revenue at 100 users. Losing 30 users is ₱15,000.
+Three kinds of month
+A dark day on a full book gives up about
+₱1,667
+of revenue. Ten dark days is about
+₱16,667
+. The bill for Starlink and the host does not move. Break-even at today’s standing costs is
+25
+paying users.
+Calm month
+A full book and only the standing bills. This is the month the guide’s profit figure comes from.
+₱37,600
+Profit
+Users paying
+100
+Net revenue
+₱50,000
+Starlink
+₱8,400
+Host
+₱2,000
+Upkeep and repairs
+₱2,000
+Cash out
+₱12,400
+Bar is net revenue against a calm full book.
+Tight month
+Seventy users pay, 8% of billings never clear, upkeep jumps, and a visit needs parts.
+₱15,300
+Profit
+Users paying
+70
+Net revenue
+₱32,200
+Starlink
+₱8,400
+Host
+₱2,000
+Upkeep and repairs
+₱6,500
+Cash out
+₱16,900
+Bar is net revenue against a calm full book.
+Bad month
+About 40 users pay. A storm week or a site that never filled, plus an ₱8,000 repair. The satellite bill still arrives in full.
+-₱5,400
+Loss this month
+Users paying
+40
+Net revenue
+₱19,000
+Starlink
+₱8,400
+Host
+₱2,000
+Upkeep and repairs
+₱14,000
+Cash out
+₱24,400
+Bar is net revenue against a calm full book.
+Twelve-month cost projection
+One site. Capital goes out on day one. Navy bars are profitable months. Amber bars are losses. Cash turns positive only after those months have paid the kit back.
+Year shape
+Guide base
+100 paying users every month. The brochure case — full from day one.
+Fill-up year
+Opens thin and reaches 100 users in month 7. Starts on 500 GB and moves to 1 TB at 50 users.
+Weather year
+The same fill-up, a storm in month 8, and a lightning repair in month 11.
+Collections that never clear
+3%
+Taken off billed revenue every month.
+Monthly reserve
+₱500
+Parts and travel, on top of standing upkeep.
+Upgrade at 50 users
+500 GB until the book hits 50, then 1 TB. The plan does not drop back during a storm month.
+Year profit
+₱323,150
+Worst month · M1
+₱2,975
+Kit paid back
+Month 8
+8.0 months
+Where the year’s money goes
+Billed
+₱485,000
+Uncollected
+₱14,550
+Starlink
+₱93,300
+Host fees
+₱24,000
+Upkeep
+₱24,000
+Reserve
+₱6,000
+Repairs
+₱0
+Profit
+₱323,150
+Month
+1
+·
+Install month
+25
+users ·
+500 GB
+· profit
+₱2,975
+Balance
+-₱147,025
+Month
+2
+·
+Filling
+40
+users ·
+500 GB
+· profit
+₱10,250
+Balance
+-₱136,775
+Month
+3
+·
+Filling
+55
+users ·
+1 TB
+· profit
+₱13,775
+Balance
+-₱123,000
+Month
+4
+·
+Filling
+70
+users ·
+1 TB
+· profit
+₱21,050
+Balance
+-₱101,950
+Month
+5
+·
+Filling
+85
+users ·
+1 TB
+· profit
+₱28,325
+Balance
+-₱73,625
+Month
+6
+·
+Filling
+95
+users ·
+1 TB
+· profit
+₱33,175
+Balance
+-₱40,450
+Month
+7
+·
+Full book
+100
+users ·
+1 TB
+· profit
+₱35,600
+Balance
+-₱4,850
+Month
+8
+·
+Full book
+100
+users ·
+1 TB
+· profit
+₱35,600
+Balance
+₱30,750
+Month
+9
+·
+Full book
+100
+users ·
+1 TB
+· profit
+₱35,600
+Balance
+₱66,350
+Month
+10
+·
+Full book
+100
+users ·
+1 TB
+· profit
+₱35,600
+Balance
+₱101,950
+Month
+11
+·
+Full book
+100
+users ·
+1 TB
+· profit
+₱35,600
+Balance
+₱137,550
+Month
+12
+·
+Full book
+100
+users ·
+1 TB
+· profit
+₱35,600
+Balance
+₱173,150
+Month
+What happened
+Users
+Net revenue
+Costs
+Profit
+Balance
+1
+Install month
+25
+₱12,125
+₱9,150
+₱2,975
+-₱147,025
+2
+Filling
+40
+₱19,400
+₱9,150
+₱10,250
+-₱136,775
+3
+Filling
+55
+₱26,675
+₱12,900
+₱13,775
+-₱123,000
+4
+Filling
+70
+₱33,950
+₱12,900
+₱21,050
+-₱101,950
+5
+Filling
+85
+₱41,225
+₱12,900
+₱28,325
+-₱73,625
+6
+Filling
+95
+₱46,075
+₱12,900
+₱33,175
+-₱40,450
+7
+Full book
+100
+₱48,500
+₱12,900
+₱35,600
+-₱4,850
+8
+Full book
+100
+₱48,500
+₱12,900
+₱35,600
+₱30,750
+9
+Full book
+100
+₱48,500
+₱12,900
+₱35,600
+₱66,350
+10
+Full book
+100
+₱48,500
+₱12,900
+₱35,600
+₱101,950
+11
+Full book
+100
+₱48,500
+₱12,900
+₱35,600
+₱137,550
+12
+Full book
+100
+₱48,500
+₱12,900
+₱35,600
+₱173,150
+What it costs to build the network
+The guide’s ₱38 million monthly profit is 1,000 calm sites, counted only once every site is full. During a build, most months are a mix of new and full sites. The amber dashed line on the chart is the last month you buy equipment. Cash after that is the network paying itself back.
+Sites
+10
+Pilot scale
+30
+Pilot scale
+100
+Pilot scale
+1,000
+Guide scale
+Build over
+12 months
+18 months
+24 months
+Guide’s long case
+Then watch
+Stop at build
+No extra months
+12 more months
+See the payback
+Network-wide bad month
+In month 8 of each year of this projection, every live site drops to at most 40 paying users and spends ₱8,000 on repairs.
+Deepest cash hole
+₱25,059,300
+Month 6, if profit stays in
+Equipment cheques
+₱150,000,000
+If profit is paid out instead
+Left in the account
+₱666,106,400
+Positive from month 12, if nothing was paid out
+Bank balance after capital spending and operating profit. Dashed line: construction stops.
+Projected costs over the whole run
+Equipment
+₱150,000,000
+Starlink subscriptions
+₱198,837,600
+Host fees
+₱49,128,000
+Power and upkeep
+₱49,128,000
+Storm repairs
+₱0
+Net revenue
+₱1,113,200,000
+Two different numbers get called “the cost.” Equipment cheques are what you pay suppliers if site profits are distributed instead of recycled —
+₱150,000,000
+in this run. The deepest cash hole is smaller only when those profits stay in the account and each site fills on the curve (100 users by its seventh month). The guide still recommends raising
+₱180,000,000
+–
+₱200,000,000
+up front for about
+1,000
+sites at
+₱150,000
+each, so a slow barangay does not stall the crews.
+Month-by-month for the rollout
+Month
+1
+42
+live ·
+42
+new · profit
+₱161,700
+Capex
+₱6,300,000
+· balance
+-₱6,138,300
+Month
+2
+84
+live ·
+42
+new · profit
+₱638,400
+Capex
+₱6,300,000
+· balance
+-₱11,799,900
+Month
+3
+126
+live ·
+42
+new · profit
+₱1,272,600
+Capex
+₱6,300,000
+· balance
+-₱16,827,300
+Month
+4
+168
+live ·
+42
+new · profit
+₱2,221,800
+Capex
+₱6,300,000
+· balance
+-₱20,905,500
+Month
+5
+210
+live ·
+42
+new · profit
+₱3,486,000
+Capex
+₱6,300,000
+· balance
+-₱23,719,500
+Month
+6
+252
+live ·
+42
+new · profit
+₱4,960,200
+Capex
+₱6,300,000
+· balance
+-₱25,059,300
+Month
+7
+294
+live ·
+42
+new · profit
+₱6,539,400
+Capex
+₱6,300,000
+· balance
+-₱24,819,900
+Month
+8
+336
+live ·
+42
+new · profit
+₱8,118,600
+Capex
+₱6,300,000
+· balance
+-₱23,001,300
+Month
+9
+378
+live ·
+42
+new · profit
+₱9,697,800
+Capex
+₱6,300,000
+· balance
+-₱19,603,500
+Month
+10
+420
+live ·
+42
+new · profit
+₱11,277,000
+Capex
+₱6,300,000
+· balance
+-₱14,626,500
+Month
+11
+462
+live ·
+42
+new · profit
+₱12,856,200
+Capex
+₱6,300,000
+· balance
+-₱8,070,300
+Month
+12
+504
+live ·
+42
+new · profit
+₱14,435,400
+Capex
+₱6,300,000
+· balance
+₱65,100
+Month
+13
+546
+live ·
+42
+new · profit
+₱16,014,600
+Capex
+₱6,300,000
+· balance
+₱9,779,700
+Month
+14
+588
+live ·
+42
+new · profit
+₱17,593,800
+Capex
+₱6,300,000
+· balance
+₱21,073,500
+Month
+15
+630
+live ·
+42
+new · profit
+₱19,173,000
+Capex
+₱6,300,000
+· balance
+₱33,946,500
+Month
+16
+672
+live ·
+42
+new · profit
+₱20,752,200
+Capex
+₱6,300,000
+· balance
+₱48,398,700
+Month
+17
+713
+live ·
+41
+new · profit
+₱22,327,550
+Capex
+₱6,150,000
+· balance
+₱64,576,250
+Month
+18
+754
+live ·
+41
+new · profit
+₱23,895,400
+Capex
+₱6,150,000
+· balance
+₱82,321,650
+Month
+19
+795
+live ·
+41
+new · profit
+₱25,459,500
+Capex
+₱6,150,000
+· balance
+₱101,631,150
+Month
+20
+836
+live ·
+41
+new · profit
+₱27,016,100
+Capex
+₱6,150,000
+· balance
+₱122,497,250
+Month
+21
+877
+live ·
+41
+new · profit
+₱28,565,200
+Capex
+₱6,150,000
+· balance
+₱144,912,450
+Month
+22
+918
+live ·
+41
+new · profit
+₱30,109,300
+Capex
+₱6,150,000
+· balance
+₱168,871,750
+Month
+23
+959
+live ·
+41
+new · profit
+₱31,650,900
+Capex
+₱6,150,000
+· balance
+₱194,372,650
+Month
+24
+1,000
+live ·
+41
+new · profit
+₱33,192,500
+Capex
+₱6,150,000
+· balance
+₱221,415,150
+Month
+25
+1,000
+live ·
+0
+new · profit
+₱34,576,250
+Capex
+₱0
+· balance
+₱255,991,400
+Month
+26
+1,000
+live ·
+0
+new · profit
+₱35,652,500
+Capex
+₱0
+· balance
+₱291,643,900
+Month
+27
+1,000
+live ·
+0
+new · profit
+₱36,575,000
+Capex
+₱0
+· balance
+₱328,218,900
+Month
+28
+1,000
+live ·
+0
+new · profit
+₱37,190,000
+Capex
+₱0
+· balance
+₱365,408,900
+Month
+29
+1,000
+live ·
+0
+new · profit
+₱37,497,500
+Capex
+₱0
+· balance
+₱402,906,400
+Month
+30
+1,000
+live ·
+0
+new · profit
+₱37,600,000
+Capex
+₱0
+· balance
+₱440,506,400
+Month
+31
+1,000
+live ·
+0
+new · profit
+₱37,600,000
+Capex
+₱0
+· balance
+₱478,106,400
+Month
+32
+1,000
+live ·
+0
+new · profit
+₱37,600,000
+Capex
+₱0
+· balance
+₱515,706,400
+Month
+33
+1,000
+live ·
+0
+new · profit
+₱37,600,000
+Capex
+₱0
+· balance
+₱553,306,400
+Month
+34
+1,000
+live ·
+0
+new · profit
+₱37,600,000
+Capex
+₱0
+· balance
+₱590,906,400
+Month
+35
+1,000
+live ·
+0
+new · profit
+₱37,600,000
+Capex
+₱0
+· balance
+₱628,506,400
+Month
+36
+1,000
+live ·
+0
+new · profit
+₱37,600,000
+Capex
+₱0
+· balance
+₱666,106,400
+Month
+Live sites
+New
+Revenue
+Operating cost
+Capex
+Balance
+1
+42
+42
+₱525,000
+₱363,300
+₱6,300,000
+-₱6,138,300
+2
+84
+42
+₱1,365,000
+₱726,600
+₱6,300,000
+-₱11,799,900
+3
+126
+42
+₱2,520,000
+₱1,247,400
+₱6,300,000
+-₱16,827,300
+4
+168
+42
+₱3,990,000
+₱1,768,200
+₱6,300,000
+-₱20,905,500
+5
+210
+42
+₱5,775,000
+₱2,289,000
+₱6,300,000
+-₱23,719,500
+6
+252
+42
+₱7,770,000
+₱2,809,800
+₱6,300,000
+-₱25,059,300
+7
+294
+42
+₱9,870,000
+₱3,330,600
+₱6,300,000
+-₱24,819,900
+8
+336
+42
+₱11,970,000
+₱3,851,400
+₱6,300,000
+-₱23,001,300
+9
+378
+42
+₱14,070,000
+₱4,372,200
+₱6,300,000
+-₱19,603,500
+10
+420
+42
+₱16,170,000
+₱4,893,000
+₱6,300,000
+-₱14,626,500
+11
+462
+42
+₱18,270,000
+₱5,413,800
+₱6,300,000
+-₱8,070,300
+12
+504
+42
+₱20,370,000
+₱5,934,600
+₱6,300,000
+₱65,100
+13
+546
+42
+₱22,470,000
+₱6,455,400
+₱6,300,000
+₱9,779,700
+14
+588
+42
+₱24,570,000
+₱6,976,200
+₱6,300,000
+₱21,073,500
+15
+630
+42
+₱26,670,000
+₱7,497,000
+₱6,300,000
+₱33,946,500
+16
+672
+42
+₱28,770,000
+₱8,017,800
+₱6,300,000
+₱48,398,700
+17
+713
+41
+₱30,857,500
+₱8,529,950
+₱6,150,000
+₱64,576,250
+18
+754
+41
+₱32,937,500
+₱9,042,100
+₱6,150,000
+₱82,321,650
+19
+795
+41
+₱35,010,000
+₱9,550,500
+₱6,150,000
+₱101,631,150
+20
+836
+41
+₱37,075,000
+₱10,058,900
+₱6,150,000
+₱122,497,250
+21
+877
+41
+₱39,132,500
+₱10,567,300
+₱6,150,000
+₱144,912,450
+22
+918
+41
+₱41,185,000
+₱11,075,700
+₱6,150,000
+₱168,871,750
+23
+959
+41
+₱43,235,000
+₱11,584,100
+₱6,150,000
+₱194,372,650
+24
+1,000
+41
+₱45,285,000
+₱12,092,500
+₱6,150,000
+₱221,415,150
+25
+1,000
+0
+₱46,822,500
+₱12,246,250
+₱0
+₱255,991,400
+26
+1,000
+0
+₱48,052,500
+₱12,400,000
+₱0
+₱291,643,900
+27
+1,000
+0
+₱48,975,000
+₱12,400,000
+₱0
+₱328,218,900
+28
+1,000
+0
+₱49,590,000
+₱12,400,000
+₱0
+₱365,408,900
+29
+1,000
+0
+₱49,897,500
+₱12,400,000
+₱0
+₱402,906,400
+30
+1,000
+0
+₱50,000,000
+₱12,400,000
+₱0
+₱440,506,400
+31
+1,000
+0
+₱50,000,000
+₱12,400,000
+₱0
+₱478,106,400
+32
+1,000
+0
+₱50,000,000
+₱12,400,000
+₱0
+₱515,706,400
+33
+1,000
+0
+₱50,000,000
+₱12,400,000
+₱0
+₱553,306,400
+34
+1,000
+0
+₱50,000,000
+₱12,400,000
+₱0
+₱590,906,400
+35
+1,000
+0
+₱50,000,000
+₱12,400,000
+₱0
+₱628,506,400
+36
+1,000
+0
+₱50,000,000
+₱12,400,000
+₱0
+₱666,106,400
+Not monthly, but they can empty a month
+Billing before the paper exists
+NTC VAS / DTIP registration is the license to charge people. Core fees are about ₱6,000–₱10,000, plus possible minimum capitalization. A stop-order costs more than the fee. Mayor’s permit, BIR, and barangay clearance are the local layer.
+Residential Starlink cannot be resold
+The guide is explicit: use Local Priority / Business. A residential plan that ‘works fine in the pilot’ is the thing that unwinds the pilot.
+The four-month payback assumes a full site
+Capital comes back in about four calm months only if 100 people are already paying. A site that fills over seven months pays back later. A network still under construction pays back later than any single full site.
+One thousand barangays is an execution plan
+Eighteen to twenty-four months to 1,000 sites is a crew, a permit rhythm, and a capital account. It is not a booked pipeline. The guide’s own advice is to pilot 10–30 sites first.

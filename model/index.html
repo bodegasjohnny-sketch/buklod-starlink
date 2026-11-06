@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+<meta charset="utf-8"/><meta name="viewport" content="width=device-width, initial-scale=1"/>
+<title>Model · Buklod</title>
+<meta name="description" content="Interactive calm-month model for one Buklod site: users, price, plan, host fee, upkeep, and payback."/>
+<meta name="theme-color" content="#1c3d5a"/>
+<meta name="twitter:card" content="summary_large_image"/>
+<meta property="og:title" content="Model · Buklod"/>
+<meta property="og:description" content="Interactive calm-month model for one Buklod site: users, price, plan, host fee, upkeep, and payback."/>
+<meta property="og:image" content="https://starlink.johnnybodegas.com/og.jpg"/>
+<meta property="og:url" content="https://starlink.johnnybodegas.com/model/"/>
+<link rel="canonical" href="https://starlink.johnnybodegas.com/model/"/>
+<link rel="icon" type="image/svg+xml" href="/favicon.svg"/>
+<link rel="preconnect" href="https://fonts.googleapis.com"/>
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin/>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,600;9..144,700&family=Source+Sans+3:ital,wght@0,400;0,500;0,600;0,700;1,400&display=swap"/>
+<link rel="stylesheet" href="/assets/site.css"/>
+</head><body>
+<a class="skip sr-only" href="#content">Skip to content</a>
+<div class="banner-note"><div class="wrap">Independent Buklod planning site · Not affiliated with SpaceX or Starlink · Educational planning figures only</div></div>
+<header class="site-header"><div class="wrap header-inner">
+  <a class="brand" href="/"><span class="brand-mark" aria-hidden="true"></span><span class="brand-name">Buklod</span></a>
+  <nav class="nav" aria-label="Primary"><a href="/">Home</a>
+<a href="/how-it-works/">How it works</a>
+<a href="/equipment/">Equipment</a>
+<a href="/model/" aria-current="page">Model</a>
+<a href="/risks/">Risks</a>
+<a href="/hosts/">Hosts</a>
+<a href="/invest/">Invest</a>
+<a href="/apply/" class="nav-cta">Apply</a></nav>
+  <button type="button" class="menu-btn" data-menu aria-expanded="false" aria-controls="mobile-nav" aria-label="Open menu">☰</button>
+</div>
+<nav id="mobile-nav" class="wrap mobile-nav" aria-label="Mobile"><a href="/">Home</a>
+<a href="/how-it-works/">How it works</a>
+<a href="/equipment/">Equipment</a>
+<a href="/model/" aria-current="page">Model</a>
+<a href="/risks/">Risks</a>
+<a href="/hosts/">Hosts</a>
+<a href="/invest/">Invest</a>
+<a href="/apply/">Apply</a></nav>
+</header>
+<main id="content">
+<section class="hero"><div class="wrap">
+  <p class="eyebrow">One site, one month</p>
+  <h1>Move the book. Watch the month.</h1>
+  <p class="lead">The guide’s calm month is 100 users at ₱500, the 1 TB plan at ₱8,400, a ₱2,000 host, and ₱2,000 for power and upkeep. Profit is about ₱37,600 and the ₱150,000 kit comes back in about four months — if the site is already full.</p>
+  <div class="actions">
+    <button type="button" class="btn btn-secondary" data-preset="base">Guide base</button>
+    <button type="button" class="btn btn-secondary" data-preset="open">Opening month</button>
+    <button type="button" class="btn btn-secondary" data-preset="lean">Lean site</button>
+    <button type="button" class="btn btn-secondary" data-preset="floor">Price floor</button>
+  </div>
+</div></section>
+<section class="section" id="model-app"><div class="wrap two-col">
+  <div class="card">
+    <div class="range-row field"><label for="m-users">Paying users <span id="m-users-val">100</span></label>
+      <input id="m-users" type="range" min="0" max="150" step="1" value="100"/>
+      <span class="small muted">The guide plans for 50–100.</span></div>
+    <div class="range-row field"><label for="m-price">Price per user <span id="m-price-val">₱500</span></label>
+      <input id="m-price" type="range" min="300" max="800" step="50" value="500"/>
+      <span class="small muted">Guide band is ₱400–₱600. Planning price is ₱500.</span></div>
+    <div class="field"><label for="m-plan">Starlink plan</label>
+      <select id="m-plan"><option value="500">Local Priority 500 GB · ₱4,650</option><option value="1000" selected>Local Priority 1 TB · ₱8,400</option></select></div>
+    <div class="range-row field"><label for="m-host">Host fee <span id="m-host-val">₱2,000</span></label>
+      <input id="m-host" type="range" min="800" max="3500" step="100" value="2000"/></div>
+    <div class="range-row field"><label for="m-opex">Power and upkeep <span id="m-opex-val">₱2,000</span></label>
+      <input id="m-opex" type="range" min="1000" max="8000" step="100" value="2000"/></div>
+    <div class="range-row field"><label for="m-capex">Capital per site <span id="m-capex-val">₱150,000</span></label>
+      <input id="m-capex" type="range" min="120000" max="180000" step="5000" value="150000"/></div>
+    <p class="alert small" id="m-hint"></p>
+  </div>
+  <div>
+    <div class="metrics">
+      <div class="metric"><span class="small muted">Revenue</span><b id="m-revenue">₱50,000</b></div>
+      <div class="metric"><span class="small muted">Costs</span><b id="m-costs">₱12,400</b><span class="small muted" id="m-costnote"></span></div>
+      <div class="metric"><span class="small muted">Profit</span><b id="m-profit">₱37,600</b><span class="small muted">of revenue</span></div>
+      <div class="metric"><span class="small muted">Payback</span><b id="m-payback">4.0 months</b><span class="small muted">If every month matched this one</span></div>
+    </div>
+    <div class="card" style="margin-top:1rem">
+      <div class="price-row"><span>Users to break even</span><strong id="m-breakeven">25</strong></div>
+      <p class="small muted">Starlink does not shrink when the book does.</p>
+      <h3 style="margin-top:1rem">Profit as the book fills</h3>
+      <p class="small muted">Same price, plan, host, and upkeep. Only the user count moves.</p>
+      <div class="chart" id="m-chart" aria-hidden="true"></div>
+    </div>
+  </div>
+</div>
+<div class="wrap" style="margin-top:1.5rem">
+  <h2>If every site already looked like this</h2>
+  <p class="muted">Multiplying does not speed up payback. It multiplies profit and the capital you have to put in. New sites are not full — that lag is on the risks page.</p>
+  <div class="metrics" id="m-scale" style="margin-top:1rem"></div>
+  <div class="actions"><a class="btn btn-secondary" href="/risks/">Project a year, including a bad month</a></div>
+</div></section>
+</main>
+
+<footer class="site-footer">
+  <div class="wrap footer-grid">
+    <div>
+      <div class="brand" style="margin-bottom:.75rem"><span class="brand-mark" aria-hidden="true"></span><span class="brand-name">Buklod</span></div>
+      <p class="small muted">Community internet for remote Philippine barangays. One Local Priority link, shared across about a kilometer.</p>
+    </div>
+    <div>
+      <h3>The model</h3>
+      <a href="/how-it-works/">How it works</a>
+      <a href="/equipment/">Equipment</a>
+      <a href="/model/">Cost and revenue</a>
+      <a href="/risks/">Monthly risks</a>
+    </div>
+    <div>
+      <h3>Partners</h3>
+      <a href="/hosts/">Host a site</a>
+      <a href="/requirements/">Permits</a>
+      <a href="/invest/">Capital</a>
+      <a href="/apply/">Apply</a>
+    </div>
+  </div>
+  <div class="wrap">
+    <p class="disclaimer"><strong>Planning figures.</strong> 10,875 underserved barangays cited from DICT. About ₱150,000 a site. Calm-month profit about ₱37,600 at 100 users. Updated November 2026.</p>
+    <p class="disclaimer">Figures follow the November 2026 planning guide, plus a fill-up and bad-month model on the risks page. They are not a forecast, not an offer of securities, and not a promise of profit. Buklod is not affiliated with SpaceX or Starlink. Residential Starlink plans cannot be resold. Re-check the price sheet and NTC rules before you spend. This independent site is operated for Johnny Bodegas / Buklod planning; it is not an official Starlink, SpaceX, or DICT property.</p>
+  </div>
+</footer>
+
+<script src="/assets/economics.js"></script>
+<script src="/assets/site.js"></script>
+</body></html>

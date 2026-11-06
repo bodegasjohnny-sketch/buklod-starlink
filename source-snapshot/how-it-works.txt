@@ -1,0 +1,87 @@
+How a barangay gets online
+One dish, a sector, a book of vouchers.
+The link is a Starlink Local Priority plan. The coverage is an outdoor point-to-multipoint radio. The business is 50 to 100 households paying monthly, on equipment you still own.
+1 km
+Schematic, not a survey. The amber dot is the host roof. Navy dots are households inside about a kilometer. Trees, a water tank, or a hill will move the real edge.
+The sky
+The dish needs a clear view. A mango canopy is a bad host, however friendly the household.
+The kilometer
+A 5 GHz sector is the default through trees and houses. 60 GHz is faster and fussier — cleaner line of sight, shorter hop.
+The edge
+Houses near the roof often connect with an ordinary router. Houses at the edge get a small client radio, ₱3,000–₱6,000 each.
+The portal
+Prepaid vouchers, sold by the host or a sari-sari. Keep the price inside the guide’s ₱400–₱600 band.
+What the customer sees
+An example of the voucher screen. These are the guide’s monthly rates, not a live network and not a daily promo.
+Buklod · barangay signal
+Choose a month
+30 days
+₱400
+Floor, if competition shows up.
+30 days
+₱500
+The planning price.
+30 days
+₱600
+Ceiling of the band.
+Code entry sits under the price. No contracts, no lock-in. If the week was unusable, next month’s renewals tell you before a spreadsheet does.
+Plans
+Start on 500 GB. Move to 1 TB as the book fills. Changes take effect next billing cycle — so the upgrade has to be decided before the congested month, not during it.
+Local Priority 500 GB
+₱4,650
+per site, per month
+Local Priority 1 TB
+₱8,400
+per site, per month
+Time to install one site
+Easy
+On site ·
+4–8 hours
+Ready ·
+Same day
+Power ready, clear line of sight, mount already built.
+Normal
+On site ·
+1–2 days
+Ready ·
+1–2 days
+A typical roof, some cable runs, a neighbor to talk to.
+Remote or difficult
+On site ·
+2–4 days
+Ready ·
+2–4 days
+Travel, a power build, or a pole that does not exist yet.
+Best practice from the guide: build the mount and sort the power before the team arrives.
+Operating rules
+01
+Own the equipment
+You buy it, you mount it, you can move it. Host-owned hardware feels cheaper until the first dispute, and it is a poor story for investors.
+02
+Write the host agreement
+Free internet, the monthly fee, access, security of the gear, and what happens when either side stops. A handshake does not survive a family argument.
+03
+Solve power before the dish arrives
+Stable grid plus a UPS, or solar and battery in the budget. A perfect radio on a dead breaker is a dark site.
+04
+Pick elevation and a clear sky
+The dish wants sky. The sector wants a view of roofs, not a wall of mango trees. Walk the barangay before you sign the host.
+05
+Pilot 10–30 sites
+Learn permits, fill-up time, and which host type actually watches the roof. Then scale. The guide is explicit about this.
+06
+Upgrade the plan as the book grows
+500 GB while the site is filling. 1 TB as it gets busy. Watch the usage; do not wait for the complaints.
+07
+Use a simple voucher portal
+Prepaid, monthly, sold by the host or a nearby store. Keep the price inside ₱400–₱600.
+08
+Name a local pair of hands
+One or two people per area who can power-cycle a radio, reseat a cable, and tell you the truth. You cannot fly a crew for every brownout.
+09
+Raise against the build, not the brochure
+The guide’s raise is ₱180–200 million for about 1,000 sites, with 8–10 investors and a suggested 40–50% of profit only once the network is stable in year two. The risks page shows why the buffer exists.
+10
+Choose barangays, not pins on a map
+High demand, a cooperative LGU, a host with a real roof, and no decent incumbent signal. Skip the rest until the crew has a rhythm.
+Permits and the plan you are allowed to resell

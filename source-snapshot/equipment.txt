@@ -1,0 +1,54 @@
+What goes on the roof
+Plan a site at ₱150,000.
+Line items below are street ranges. They do not add up to the planning total by themselves. The ₱150,000 figure is what you raise against: a typical kit, a small float of client radios, labor, and a buffer. An easy site can land nearer ₱120,000. Solar on a hard site can push toward ₱180,000.
+Low, easy site
+₱120,000
+Planning figure
+₱150,000
+Hard site, solar
+₱180,000
+Starlink Standard Kit
+The satellite link. One kit per site.
+₱28,000 – ₱35,000
+Local Priority / Business plan only. Residential resale is prohibited.
+Clear sky matters more than a pretty roof.
+Mount and pole
+Holds the dish and, often, the sector.
+₱2,000 – ₱5,000
+Build the mount before the crew arrives.
+Outdoor sector antenna
+Spreads the link across about a kilometer.
+₱15,000 – ₱25,000
+5 GHz is the practical default through trees. 60 GHz wants a cleaner line of sight and a shorter hop.
+The sector, not the dish, is what the houses actually see.
+Outdoor access point
+Point-to-multipoint base station.
+₱12,000 – ₱20,000
+Weatherproof, with a drip loop. This is the radio that fails in a surge.
+Dress the cable. Water follows a sloppy run into the port.
+Client radios (CPE)
+For houses at the edge, or behind a building.
+₱3,000 – ₱6,000
+Optional per house. Stock a few. Near houses can use an ordinary router if the signal is honest.
+PoE, injectors, cable
+Power and data up the pole.
+₱3,000 – ₱5,000
+Carry a spare injector. It is the part lightning eats first.
+Surge protector and arrestor
+Keeps a storm from becoming a new radio.
+₱1,500 – ₱3,000
+Ground it. An arrestor with no ground is a sticker.
+Power — grid and UPS, or solar and battery
+The link is useless in the dark.
+₱15,000 – ₱40,000
+The wide range is the difference between a UPS and a real off-grid kit.
+Size the battery for a string of rain days, not a brochure noon.
+Weatherproof enclosure
+Router, injector, and arrestor live here.
+₱2,000 – ₱4,000
+Lock it. The host fee is partly for watching it.
+Install materials
+Clamps, tape, ties, sealant, grounding.
+₱2,000 – ₱4,000
+Cheap, and the usual reason a ‘quick’ job runs long.
+Put ₱150,000 into the payback model

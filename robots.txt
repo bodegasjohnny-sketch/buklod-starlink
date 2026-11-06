@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://starlink.johnnybodegas.com/sitemap.xml

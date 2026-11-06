@@ -1,0 +1,52 @@
+Capital for a thousand roofs
+₱150 million of equipment. More than that in the bank.
+The guide’s steady state is attractive because every site is already full: ₱50 million of revenue, about ₱12 million of operating cost, about ₱38 million of profit. That is not month one. It is the month after the build, if the books actually fill.
+Sites
+1,000
+Equipment
+₱150,000,000
+Suggested raise
+₱180–200M
+Build
+18–24 months
+The brochure month, times a thousand
+100 users × ₱500 × 1,000 sites. Starlink 1 TB at ₱8,400, host ₱2,000, upkeep ₱2,000. The guide rounds operating cost to about ₱12 million and profit to about ₱38 million. The exact calm-month arithmetic is ₱12.4 million of cost and ₱37.6 million of profit.
+Suggested terms, once that profit is real and stable in year two: 8–10 investors, and 40–50% of profit as a dividend. That is a planning suggestion from the guide, not a yield and not an offer.
+What the raise is actually for
+₱150,000 × 1,000 sites of gear, mounts, power, and a CPE float.
+Months when new sites have 25 users and the ₱8,400 invoice is already due.
+A storm month, a spare radio, a second visit.
+Permits, a small crew, and the pilot of 10–30 sites before the rest.
+Cash if you build evenly over 24 months
+Each new site follows the fill-up curve: 25 users in its first month, 100 by month 7, 500 GB until 50 users, then 1 TB. No collections leak. After month 24 the model stops buying sites and watches for another 12 months. Rates are the guide defaults.
+Calm build
+Deepest cash hole
+₱25,059,300
+Lowest balance if profit stays in, month
+6
+Cumulative cash turns positive in month 12 (12.0 months from the first install).
+Balance at month 36 if profit was never paid out:
+₱666,106,400
+With a bad month each year
+Month 8 of each year: every live site drops to at most 40 paying users and spends ₱8,000 on repairs.
+Deepest cash hole
+₱31,254,300
+Lowest balance if profit stays in, month
+8
+Cumulative cash turns positive in month 13 (13.0 months from the first install).
+Balance at month 36 if profit was never paid out:
+₱592,502,900
+The deep hole is not the raise. It is the lowest balance if you buy sites month by month and leave every peso of profit in the same account, and if each site reaches 100 users by month 7. Pay profits out, or fill more slowly, and you are back to writing cheques for the equipment —
+₱150,000,000
+— which is why the guide still says raise
+₱180,000,000
+–
+₱200,000,000
+before the crews are moving. Change the pace on the risks page.
+Open the full cost projection
+Do the first 10 to 30 on purpose
+Ten sites is
+₱1,500,000
+at the planning cost. Thirty is
+₱4,500,000
+. That is enough to learn how long a book actually takes to reach 100 users, which host type watches the roof, and whether the LGU’s paperwork matches the national registration. Scaling past that before those answers exist is how the four-month story becomes a warehouse of dark radios.

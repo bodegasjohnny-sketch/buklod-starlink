@@ -1,0 +1,65 @@
+One site, one month
+Move the book. Watch the month.
+The guide’s calm month is 100 users at ₱500, the 1 TB plan at ₱8,400, a ₱2,000 host, and ₱2,000 for power and upkeep. Profit is about ₱37,600 and the ₱150,000 kit comes back in about four months — if the site is already full.
+Guide base
+Opening month
+Lean site
+Price floor
+Reset
+Paying users
+100
+The guide plans for 50–100.
+Price per user
+₱500
+Guide band is ₱400–₱600. Planning price is ₱500.
+Starlink plan
+Local Priority 500 GB
+₱4,650
+Local Priority 1 TB
+₱8,400
+Host fee
+₱2,000
+Planning default is ₱2,000. Offers run ₱800–₱3,500 by host type.
+Power and upkeep
+₱2,000
+Guide uses ₱2,000. A truck roll does not fit in that.
+Capital per site
+₱150,000
+Guide range ₱120,000–₱180,000. Plan at ₱150,000.
+Revenue
+₱50,000
+Costs
+₱12,400
+Starlink ₱8,400 · host ₱2,000 · upkeep ₱2,000
+Profit
+₱37,600
+75% of revenue
+Payback
+4.0 months
+If every month matched this one
+Users to break even
+25
+Starlink does not shrink when the book does
+Profit as the book fills
+Same price, plan, host, and upkeep. Only the user count moves. Navy is the profit line. It crosses zero at the break-even book.
+If every site already looked like this
+Multiplying does not speed up payback. It multiplies profit and the capital you have to put in. New sites are not full — that lag is on the risks page.
+1
+site
+10
+sites
+30
+sites
+100
+sites
+1,000
+sites
+Monthly revenue
+₱50,000
+Monthly cost
+₱12,400
+Monthly profit
+₱37,600
+Capital in the ground
+₱150,000
+Project a year, including a bad month
