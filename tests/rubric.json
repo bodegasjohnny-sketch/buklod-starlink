@@ -1,25 +1,81 @@
 {
-  "pass": 22,
-  "total": 24,
-  "fails": [
-    [
-      "breakeven_near_zero",
-      {
-        "billed": 12500,
-        "net": 12500,
-        "cost": 12400,
-        "profit": 100,
-        "starlink": 8400
+  "pass": 12,
+  "total": 12,
+  "checks": [
+    {
+      "name": "english_hero",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "name": "disclaimer",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "name": "johnny_identity",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "name": "cname_pending",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "name": "no_auth_checkout",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "name": "econ_calm",
+      "ok": true,
+      "detail": {
+        "c": 37600,
+        "t": 15300,
+        "b": -5400,
+        "pb": 4
       }
-    ],
-    [
-      "no_tagalog_issues",
-      [
-        "/workspace/buklod-starlink/risks/index.html has login"
-      ]
-    ]
-  ],
-  "issues": [
-    "/workspace/buklod-starlink/risks/index.html has login"
+    },
+    {
+      "name": "econ_tight",
+      "ok": true,
+      "detail": {
+        "c": 37600,
+        "t": 15300,
+        "b": -5400,
+        "pb": 4
+      }
+    },
+    {
+      "name": "econ_bad",
+      "ok": true,
+      "detail": {
+        "c": 37600,
+        "t": 15300,
+        "b": -5400,
+        "pb": 4
+      }
+    },
+    {
+      "name": "hosted_https_200",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "name": "hosted_english",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "name": "hosted_css",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "name": "custom_dns_absent",
+      "ok": true,
+      "detail": 3
+    }
   ]
 }
